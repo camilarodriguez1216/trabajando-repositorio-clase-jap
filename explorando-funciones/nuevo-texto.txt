@@ -1,0 +1,1 @@
+probando comando de texto en herramienta de escritorio de git
